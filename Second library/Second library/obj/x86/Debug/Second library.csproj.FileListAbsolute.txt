@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2010\Projects\Second library\Second library\bin\Debug\Second library.exe
+c:\users\user\documents\visual studio 2010\Projects\Second library\Second library\bin\Debug\Second library.pdb
+c:\users\user\documents\visual studio 2010\Projects\Second library\Second library\obj\x86\Debug\Second library.exe
+c:\users\user\documents\visual studio 2010\Projects\Second library\Second library\obj\x86\Debug\Second library.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\Second library\Second library\obj\x86\Debug\Second library.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Second library\Second library\bin\Debug\firstlibrary.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Second library\Second library\bin\Debug\firstlibrary.pdb

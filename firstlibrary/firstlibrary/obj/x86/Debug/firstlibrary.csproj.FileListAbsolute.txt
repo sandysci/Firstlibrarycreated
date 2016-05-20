@@ -1,0 +1,4 @@
+c:\users\user\documents\visual studio 2010\Projects\firstlibrary\firstlibrary\bin\Debug\firstlibrary.exe
+c:\users\user\documents\visual studio 2010\Projects\firstlibrary\firstlibrary\bin\Debug\firstlibrary.pdb
+c:\users\user\documents\visual studio 2010\Projects\firstlibrary\firstlibrary\obj\x86\Debug\firstlibrary.exe
+c:\users\user\documents\visual studio 2010\Projects\firstlibrary\firstlibrary\obj\x86\Debug\firstlibrary.pdb
